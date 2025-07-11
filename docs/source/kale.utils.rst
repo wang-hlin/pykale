@@ -6,14 +6,6 @@ Utilities
 Submodules
 ----------
 
-kale.utils.distance module
---------------------------
-
-.. automodule:: kale.utils.distance
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 kale.utils.download module
 --------------------------
 
@@ -58,6 +50,14 @@ kale.utils.seed module
 ----------------------
 
 .. automodule:: kale.utils.seed
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+kale.utils.remap\_model\_parameters module
+----------------------
+
+.. automodule:: kale.utils.remap_model_parameters
    :members:
    :undoc-members:
    :show-inheritance:
